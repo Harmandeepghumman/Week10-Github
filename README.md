@@ -1,2 +1,4 @@
 # Week10-Github
-testing
+
+
+[![tfsec](https://github.com/Harmandeepghumman/Week10-Github/actions/workflows/tfsec.yml/badge.svg)](https://github.com/Harmandeepghumman/Week10-Github/actions/workflows/tfsec.yml)
